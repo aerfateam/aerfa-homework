@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.page {
+	font-size: 20px;
+	margin-left: 420px;
+}
+
+.page a {
+	display: block;
+	float: left;
+	margin-right: 30px;
+	border: 1px solid #777;
+	width: 70px;
+	text-align: center;
+}
+
+#search_text {
+	border: 2px solid #f33;
+}
+
+.search_sub {
+	display: block;
+	margin-top: 10px;
+	background-color: #f33;
+	color: #fff;
+	border: 2px solid #f55;
+}
+
+.buy {
+	float: right;
+}
